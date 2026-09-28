@@ -1,0 +1,101 @@
+Cliente,Idade,Gênero,Categoria Produto,Valor (R$),Data Compra,Hora Compra,Canal,Cidade,Estado
+C001,58,M,Cosméticos,2603.18,2025-05-22,11:42,App Mobile,Fogaça de Lima,PA
+C002,32,M,Eletrodomésticos,2378.15,2025-05-05,03:12,Web Site,Nogueira da Serra,RO
+C003,23,F,Cosméticos,133.4,2025-05-09,22:14,App Mobile,da Cunha,AL
+C004,32,M,Calçados,719.97,2025-05-17,03:02,Web Site,Cavalcanti,ES
+C005,62,F,TV e Som,1588.76,2025-05-12,23:30,Loja Física,Nogueira,DF
+C006,18,M,Celulares,1210.67,2025-05-13,18:17,App Mobile,Peixoto das Pedras,DF
+C007,31,F,Eletrodomésticos,351.83,2025-05-25,15:15,App Mobile,Vieira,AC
+C008,40,F,Games,947.89,2025-04-29,14:00,App Mobile,Rodrigues de da Rosa,GO
+C009,64,F,Calçados,463.15,2025-05-01,22:56,Loja Física,Melo,BA
+C010,23,F,Games,3102.52,2025-05-02,17:06,Loja Física,Cavalcanti,SC
+C011,54,M,Eletrodomésticos,189.01,2025-05-22,08:48,App Mobile,Martins,AL
+C012,36,M,TV e Som,3036.7,2025-05-25,02:41,Loja Física,da Cruz da Prata,PB
+C013,35,F,Suplementos,594.41,2025-05-19,14:22,Loja Física,da Rosa,PE
+C014,31,F,Eletrodomésticos,2143.68,2025-05-20,23:50,App Mobile,Pires da Praia,PB
+C015,52,M,Livros,1634.04,2025-05-01,09:02,Loja Física,Melo,AM
+C016,58,M,Suplementos,2954.7,2025-05-22,01:14,App Mobile,Moura,ES
+C017,32,M,Suplementos,1422.04,2025-05-23,11:12,App Mobile,Mendes,RN
+C018,31,F,TV e Som,2304.37,2025-05-16,12:09,Loja Física,Novaes,AM
+C019,59,F,Livros,949.13,2025-05-18,20:30,App Mobile,Costela do Campo,SC
+C020,65,F,Games,1516.67,2025-05-14,11:55,Web Site,Nascimento de Minas,MA
+C021,43,F,TV e Som,3490.72,2025-04-28,01:56,App Mobile,Aragão de Goiás,TO
+C022,50,F,Eletrodomésticos,2652.56,2025-05-05,01:48,App Mobile,Viana,RO
+C023,27,M,Celulares,2099.54,2025-04-28,12:45,Loja Física,Ribeiro,GO
+C024,42,F,Calçados,902.41,2025-05-24,07:34,Web Site,Ribeiro do Campo,PR
+C025,18,M,Calçados,2635.55,2025-05-13,15:45,Web Site,Pinto de Costela,PR
+C026,39,M,Roupas,1538.64,2025-04-28,18:53,Loja Física,Melo,DF
+C027,18,F,Calçados,2674.01,2025-05-27,21:52,Web Site,Carvalho,SE
+C028,24,F,Calçados,2143.13,2025-05-10,07:52,App Mobile,Ferreira de Minas,AP
+C029,41,M,Calçados,3338.64,2025-05-24,13:29,Web Site,Gonçalves Verde,AL
+C030,18,F,Acessórios,97.58,2025-05-23,09:32,Loja Física,da Paz de Cunha,MA
+C031,37,M,Cosméticos,865.82,2025-05-18,23:53,Web Site,Melo Verde,AP
+C032,23,M,Acessórios,2861.6,2025-04-29,18:09,Web Site,Freitas de da Mota,SE
+C033,26,M,Acessórios,3315.56,2025-05-14,14:26,App Mobile,Oliveira das Flores,AL
+C034,34,F,TV e Som,3253.33,2025-05-15,13:10,Web Site,Rodrigues de da Luz,PE
+C035,62,M,Roupas,1414.5,2025-05-16,02:56,Web Site,Barros de Ribeiro,RS
+C036,59,F,Acessórios,3151.66,2025-04-28,08:13,Loja Física,Caldeira,BA
+C037,25,M,TV e Som,252.17,2025-05-17,22:28,App Mobile,Barbosa,AP
+C038,55,M,Games,794.15,2025-05-11,14:25,App Mobile,Oliveira,RN
+C039,63,M,TV e Som,263.88,2025-05-17,12:49,App Mobile,Costa de Goiás,ES
+C040,39,M,Calçados,855.88,2025-05-07,00:32,Web Site,Santos de Minas,DF
+C041,49,M,Calçados,489.12,2025-05-25,18:28,Web Site,Moraes dos Dourados,MS
+C042,54,F,TV e Som,2752.63,2025-05-08,00:36,Loja Física,Porto,AM
+C043,30,M,Eletrodomésticos,2316.67,2025-05-09,04:08,Loja Física,Gomes,RO
+C044,45,F,Acessórios,3027.51,2025-05-07,15:07,App Mobile,Cavalcanti,PI
+C045,61,M,Cosméticos,1427.1,2025-05-06,10:58,Loja Física,Fogaça,SC
+C046,24,M,TV e Som,690.02,2025-05-10,20:36,Loja Física,Costela,MT
+C047,26,F,Livros,996.55,2025-05-02,19:14,App Mobile,Azevedo de Minas,RJ
+C048,22,F,Calçados,369.74,2025-05-18,06:09,Web Site,Peixoto,MT
+C049,52,M,Eletrodomésticos,3244.49,2025-05-16,16:42,App Mobile,Santos do Campo,AP
+C050,28,F,Acessórios,1700.31,2025-05-13,18:58,Loja Física,Gonçalves,SE
+C051,21,M,Celulares,37.48,2025-05-10,01:20,Loja Física,Nunes do Sul,ES
+C052,34,F,Roupas,1497.84,2025-05-04,17:25,Web Site,das Neves da Serra,RN
+C053,53,F,Livros,688.95,2025-05-16,07:54,App Mobile,da Cruz de Araújo,SE
+C054,21,M,Suplementos,228.36,2025-04-29,21:19,Web Site,Cardoso da Mata,PI
+C055,48,M,Cosméticos,3363.9,2025-04-28,00:27,App Mobile,Cardoso,PR
+C056,29,M,Games,265.82,2025-05-01,21:44,App Mobile,Correia da Praia,GO
+C057,43,M,Games,884.37,2025-04-28,01:55,Web Site,Farias do Sul,GO
+C058,20,M,Celulares,2311.08,2025-05-26,14:12,Web Site,das Neves,SP
+C059,51,F,Roupas,738.78,2025-05-21,16:49,Web Site,Vieira de das Neves,MT
+C060,38,M,Roupas,1403.38,2025-05-05,13:11,Web Site,Barbosa Paulista,RO
+C061,59,F,Acessórios,1127.13,2025-05-22,10:43,App Mobile,Aragão dos Dourados,DF
+C062,18,F,Games,3494.64,2025-05-16,18:46,App Mobile,Teixeira do Amparo,PA
+C063,22,M,Calçados,950.25,2025-05-27,09:34,Loja Física,Barbosa de da Conceição,RN
+C064,22,M,Suplementos,1018.91,2025-05-07,12:46,Loja Física,da Rosa da Prata,PE
+C065,52,F,Games,3443.97,2025-05-20,19:37,Web Site,Ferreira de Cardoso,RJ
+C066,51,M,Calçados,1068.84,2025-05-12,05:49,Web Site,Freitas,BA
+C067,24,M,Roupas,430.54,2025-05-13,15:13,App Mobile,Dias do Campo,RO
+C068,65,M,Roupas,1007.69,2025-05-18,10:04,App Mobile,Castro,RN
+C069,63,F,TV e Som,2415.62,2025-05-05,08:16,Loja Física,Azevedo Verde,RS
+C070,50,F,Roupas,3171.52,2025-04-28,07:25,App Mobile,Jesus de Correia,MS
+C071,23,F,Roupas,182.98,2025-05-24,13:36,Loja Física,Monteiro,AP
+C072,26,F,Livros,2602.07,2025-05-16,09:29,Web Site,Rocha Grande,PE
+C073,63,F,Calçados,63.55,2025-05-25,23:10,App Mobile,da Conceição,SE
+C074,62,M,Calçados,155.02,2025-05-25,00:36,Loja Física,Campos de Jesus,MT
+C075,55,M,Celulares,472.24,2025-05-12,15:19,Loja Física,Moreira,SE
+C076,41,M,Suplementos,758.97,2025-05-08,15:41,App Mobile,Alves de Monteiro,RS
+C077,60,M,Suplementos,2737.0,2025-05-01,13:49,Loja Física,da Conceição do Oeste,PB
+C078,57,M,TV e Som,3030.18,2025-05-11,00:54,App Mobile,Fernandes de Pinto,GO
+C079,44,M,Livros,2585.88,2025-05-03,12:51,Loja Física,Costa,DF
+C080,44,M,Roupas,582.42,2025-04-28,03:39,Web Site,Barros do Galho,PR
+C081,24,F,Cosméticos,3009.32,2025-05-09,04:10,App Mobile,Lopes,PE
+C082,30,F,Suplementos,1089.01,2025-05-05,14:12,App Mobile,Porto,RN
+C083,32,M,TV e Som,1412.68,2025-05-14,21:08,Loja Física,Costa,PA
+C084,22,F,Suplementos,2255.94,2025-05-09,20:27,Loja Física,Aragão de Goiás,CE
+C085,61,F,Cosméticos,430.24,2025-05-12,05:29,Loja Física,Silveira,PA
+C086,29,F,Cosméticos,406.16,2025-04-29,01:21,Loja Física,Campos do Campo,MG
+C087,40,F,Celulares,2133.54,2025-05-26,18:01,Web Site,Azevedo,SP
+C088,25,F,Games,689.57,2025-05-13,18:38,App Mobile,Araújo,SP
+C089,63,F,Cosméticos,1834.12,2025-05-24,08:32,Web Site,Oliveira do Oeste,RS
+C090,61,M,Suplementos,1526.6,2025-05-16,10:28,Web Site,Cardoso,RN
+C091,39,F,Eletrodomésticos,2527.55,2025-05-19,21:34,Loja Física,Campos Grande,GO
+C092,50,F,Celulares,1161.85,2025-05-02,14:44,Web Site,Gonçalves,PE
+C093,36,M,TV e Som,1488.95,2025-05-17,07:38,Loja Física,Rocha,MS
+C094,61,M,Games,2004.8,2025-05-05,09:48,Loja Física,Barbosa do Sul,AC
+C095,53,M,Roupas,1025.59,2025-05-08,07:27,Loja Física,Nascimento do Amparo,AP
+C096,55,F,Acessórios,1563.0,2025-05-02,04:43,Web Site,da Mata Grande,AC
+C097,31,F,Livros,2316.21,2025-04-28,03:11,Loja Física,Nogueira,PE
+C098,50,F,Eletrodomésticos,2869.93,2025-05-02,00:23,App Mobile,Porto,RS
+C099,61,F,TV e Som,2828.77,2025-05-12,17:37,App Mobile,Farias do Amparo,SP
+C100,19,M,TV e Som,3444.26,2025-05-14,00:11,Web Site,Caldeira Grande,RO
